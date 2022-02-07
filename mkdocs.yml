@@ -1,0 +1,7 @@
+site_name: 비공식 네코독스
+theme:
+  name: material
+  custom_dir: overrides
+  language: kr
+  features:
+    - navigation.tabs
